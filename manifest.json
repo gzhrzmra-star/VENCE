@@ -1,0 +1,26 @@
+{
+  "name": "VENCE — Gestor de vencimientos",
+  "short_name": "VENCE",
+  "description": "Gestiona contratos, seguros, documentos, garantías y suscripciones.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080c24",
+  "theme_color": "#080c24",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
